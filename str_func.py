@@ -1,5 +1,5 @@
 def foo(string):
-    """convert string to upper case"""
+    """convert string to upper case__"""
     return string.upper()
 
 
